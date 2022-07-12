@@ -1,11 +1,12 @@
-import React from "react"
+import React from 'react';
+import { Link } from 'react-router-dom';
 
 const NotFoundPage = () => {
-	return (
-		<div>
-			This is page doesn't exist. Go <a href="/">Home</a>
-		</div>
-	)
-}
+  return (
+    <div>
+      This is page doesn&apos;t exist. Go <Link to="/">Home</Link>
+    </div>
+  );
+};
 
-export {NotFoundPage}
+export { NotFoundPage };
