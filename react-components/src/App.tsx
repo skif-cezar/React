@@ -4,6 +4,7 @@ import { HomePage } from 'pages/HomePage';
 import { AboutUs } from 'pages/AboutUs';
 import { NotFoundPage } from 'pages/NotFoundPage';
 import { Layout } from 'components/Layout';
+import './styles/App.css';
 
 const App = () => {
   return (
