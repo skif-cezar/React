@@ -1,0 +1,10 @@
+.header__navigation > a {
+  padding: 0 1rem;
+  font-size: 1.3rem;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.header__navigation > a:hover {
+  color: #f06c64;
+}
