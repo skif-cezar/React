@@ -8,3 +8,7 @@
 .header__navigation > a:hover {
   color: #f06c64;
 }
+
+a.active-link {
+  color: #f06c64;
+}
