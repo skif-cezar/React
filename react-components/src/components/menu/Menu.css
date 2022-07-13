@@ -11,4 +11,5 @@
 
 a.active-link {
   color: #f06c64;
+  cursor: default;
 }
